@@ -50,10 +50,9 @@
 
 | Проект | Что это | |
 | --- | --- | --- |
-| [**Крестики-нолики**](https://github.com/Feyzulin2004-jpg/XO) | Игра в Telegram: ходы, победа, ничья и партия в чате или Mini App. | [Репозиторий](https://github.com/Feyzulin2004-jpg/XO) |
-| [**Linker**](https://github.com/Feyzulin2004-jpg/bot-Linker) | Поиск исполнителей и сотрудников: заявки, категории, уведомления и рассылка. | [Репозиторий](https://github.com/Feyzulin2004-jpg/bot-Linker) |
-| [**Katya Content Lab**](https://github.com/Feyzulin2004-jpg/bot-Katya_contentlab) | Платный контент: подписка, оплата и доступ к материалам. | [Репозиторий](https://github.com/Feyzulin2004-jpg/bot-Katya_contentlab) |
-<div align="center">
+| [**Крестики-нолики**](https://t.me/krestnoliki_bot) | Игра в Telegram: ходы, победа, ничья и партия в чате или Mini App. | [Репозиторий](https://github.com/Feyzulin2004-jpg/XO) |
+| [**Linker**](https://t.me/linker_jobs) | Поиск исполнителей и сотрудников: заявки, категории, уведомления и рассылка. | [Репозиторий](https://github.com/Feyzulin2004-jpg/bot-Linker) |
+| [**Katya Content Lab**](https://t.me/Content_Kate_bot) | Платный контент: подписка, оплата и доступ к материалам. | [Репозиторий](https://github.com/Feyzulin2004-jpg/bot-Katya_contentlab) |
 
 ## На связи
 
