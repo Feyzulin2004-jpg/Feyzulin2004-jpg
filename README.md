@@ -50,10 +50,9 @@
 
 | Проект | Что это | |
 | --- | --- | --- |
-| **Крестики-нолики** | Игра в Telegram: ходы, победа, ничья и партия прямо в чате. Python, Telegram Bot API. | [Открыть](https://t.me/krestnoliki_bot) |
-| **Linker** | Поиск исполнителей и сотрудников: заявки, категории, уведомления и рассылка. | [Открыть](https://t.me/linker_jobs) |
-| **Content Kate** | Контентный бот с платными подписками и доступом к материалам. | [Открыть](https://t.me/Content_Kate_bot) |
-
+| [**Крестики-нолики**](https://github.com/Feyzulin2004-jpg/XO) | Игра в Telegram: ходы, победа, ничья и партия в чате или Mini App. | [Репозиторий](https://github.com/Feyzulin2004-jpg/XO) |
+| [**Linker**](https://github.com/Feyzulin2004-jpg/bot-Linker) | Поиск исполнителей и сотрудников: заявки, категории, уведомления и рассылка. | [Репозиторий](https://github.com/Feyzulin2004-jpg/bot-Linker) |
+| [**Katya Content Lab**](https://github.com/Feyzulin2004-jpg/bot-Katya_contentlab) | Платный контент: подписка, оплата и доступ к материалам. | [Репозиторий](https://github.com/Feyzulin2004-jpg/bot-Katya_contentlab) |
 <div align="center">
 
 ## На связи
